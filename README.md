@@ -5,12 +5,12 @@ This repository contains all of my classwork and notes in the Wiki section. This
 [wiki]: https://github.com/morgan-hanrahan/tech-journal/wiki/
 
 ### Current Course Journals
-[NET-150-01][]
-[SYS-255-03][]
-[CSI-160-01][]
-[SEC-260-01][]
-[SEC-335-01][]
-[SEC-345-71][]
+- [NET-150-01][]
+- [SYS-255-03][]
+- [CSI-160-01][]
+- [SEC-260-01][]
+- [SEC-335-01][]
+- [SEC-345-71][]
 
 
 [NET-150-01]: https://github.com/morgan-hanrahan/Tech-Journal/wiki/NET-150-01
