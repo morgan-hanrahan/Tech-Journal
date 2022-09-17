@@ -1,0 +1,1 @@
+Port 53 is CLOSED on host 10.0.5.254
