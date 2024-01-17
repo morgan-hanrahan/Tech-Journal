@@ -11,6 +11,7 @@ This repository contains all of my classwork and notes in the Wiki section. This
 - [SEC-260-01][]
 - [SEC-335-01][]
 - [SEC-345-71][]
+- [SEC-350-02][]
 
 
 [NET-150-01]: https://github.com/morgan-hanrahan/Tech-Journal/wiki/Network-Fundamentals
@@ -19,3 +20,4 @@ This repository contains all of my classwork and notes in the Wiki section. This
 [SEC-260-01]: https://github.com/morgan-hanrahan/Tech-Journal/wiki/Web-and-Applications-Security
 [SEC-335-01]: https://github.com/morgan-hanrahan/Tech-Journal/wiki/Ethical-Hacking-and-Penetration-Testing
 [SEC-345-71]: https://github.com/morgan-hanrahan/Tech-Journal/wiki/Information-Assurance
+[SEC-350-02]: https://github.com/morgan-hanrahan/Tech-Journal/wiki/Network-and-Security-Controls
